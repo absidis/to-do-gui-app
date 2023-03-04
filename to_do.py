@@ -17,9 +17,6 @@ $ ./todo report           # Statistics"""
     sys.stdout.buffer.write(system_architecture.encode('utf8'))
 
 
-x = 'looked'
-
-
 def basic_me(age, name):
     # This prints out "John is 23 years old."
     print("I am %d, and my name is %s" % (age, name))
