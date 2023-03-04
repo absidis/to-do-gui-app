@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/to-do-cli.iml" filepath="$PROJECT_DIR$/.idea/to-do-cli.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../to-do-gui-app/.idea/to-do-cli.iml" filepath="$PROJECT_DIR$/../to-do-gui-app/.idea/to-do-cli.iml" />
     </modules>
   </component>
 </project>
